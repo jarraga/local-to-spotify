@@ -1,0 +1,9 @@
+node_modules
+vue/node_modules
+vue/dist
+
+vue/firebase-debug.log*
+vue/firebase-debug.*.log*
+
+# Firebase cache
+vue/.firebase/

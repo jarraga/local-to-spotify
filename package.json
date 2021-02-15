@@ -1,0 +1,18 @@
+{
+  "name": "localtospotify",
+  "version": "1.0.0",
+  "description": "Scan your local mp3 music and put into a spotify playlist",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "Jorge Arraga",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ip": "^1.1.5",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {}
+}
