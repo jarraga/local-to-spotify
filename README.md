@@ -11,7 +11,8 @@ This app scans your local mp3 files, searches for them on Spotify based on metad
 
 ## Run instructions
 
-Change name of wifi card (or developer card used) to 'wifi', or put name of actual card in globals.js line 11
+- Change name of wifi card (or developer card used) to 'wifi', or put name of actual card in globals.js line 11
+- Check global variables in globals.js
 
 ## Environment variables server side 
 
