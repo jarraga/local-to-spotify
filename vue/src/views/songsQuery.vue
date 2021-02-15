@@ -167,6 +167,10 @@ export default {
     },
     deleteItem(index) {
       this.spotifyData.splice(index, 1);
+      localStorage.setItem(
+              "spotifyData",
+              JSON.stringify(this.spotifyData)
+            );
       this.updateUi();
     },
     checkUserToken() {
