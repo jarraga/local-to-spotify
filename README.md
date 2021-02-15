@@ -8,6 +8,17 @@ This app scans your local mp3 files, searches for them on Spotify based on metad
 
 > https://localtospotify.web.app
 
+## Demonstration video
+
+> https://www.youtube.com/watch?v=zv0ewC9OgdE
+
+## Github repository
+
+> https://github.com/jarraga/local-to-spotify
+
+## Dev.to post
+
+> https://dev.to/jarraga/local-mp3-files-to-spotify-playlist-own-app-473f
 
 ## Run instructions
 
